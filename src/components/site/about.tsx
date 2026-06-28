@@ -8,9 +8,9 @@ export function About() {
     <section id="about" className="py-20 sm:py-24">
       <div className="mx-auto grid max-w-6xl items-center gap-14 px-5 lg:grid-cols-2">
         <Reveal className="relative">
-          <div className="relative aspect-[4/3] overflow-hidden rounded-2xl shadow-xl">
+          <div className="relative aspect-[3/4] overflow-hidden rounded-2xl shadow-xl">
             <Image
-              src="/img/cta.jpg"
+              src="/img/airport-team.jpg"
               alt="Du học Hàn Quốc cùng Dongil Edu"
               fill
               sizes="(max-width:1024px) 100vw, 540px"

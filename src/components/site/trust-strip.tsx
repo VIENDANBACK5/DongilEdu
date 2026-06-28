@@ -3,7 +3,7 @@ import { Award, ShieldCheck, GraduationCap, CheckCircle2 } from "lucide-react";
 const ITEMS = [
   { icon: Award, title: "Trường TOP đầu", desc: "Chung-Ang, Hanyang, Sookmyung…" },
   { icon: ShieldCheck, title: "Hồ sơ minh bạch", desc: "Cam kết chi phí, không phát sinh" },
-  { icon: GraduationCap, title: "Đào tạo tiếng Hàn", desc: "Học tại Dongil Edu / LABCO 3–6 tháng" },
+  { icon: GraduationCap, title: "Đào tạo tiếng Hàn", desc: "Học tại Dongil Edu 3–6 tháng" },
   { icon: CheckCircle2, title: "Hỗ trợ A–Z", desc: "Từ tư vấn đến khi nhập học" },
 ];
 

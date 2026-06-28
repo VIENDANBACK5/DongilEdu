@@ -66,7 +66,7 @@ export const VISAS: Visa[] = [
       ["Thời gian", "6 tháng – 1 năm"],
       ["Làm thêm", "10 – 20h/tuần tùy năng lực tiếng"],
       ["Điều kiện", "Học tối thiểu 1 kỳ · TOPIK 2+"],
-      ["Gia hạn", "1 tháng / lần"],
+      ["Gia hạn", "6 tháng – 1 năm / lần"],
     ],
   },
 ];
@@ -99,7 +99,7 @@ export interface Step {
 
 export const PROCESS: Step[] = [
   { title: "Tư vấn", desc: "Tiếp nhận hồ sơ, tư vấn chọn trường – chọn ngành phù hợp với năng lực và tài chính." },
-  { title: "Học tiếng", desc: "Đăng ký lớp tiếng Hàn tại trung tâm Dongil Edu / LABCO." },
+  { title: "Học tiếng", desc: "Đăng ký lớp tiếng Hàn tại trung tâm Dongil Edu." },
   { title: "Chuẩn bị hồ sơ", desc: "Hoàn thiện hồ sơ du học, gửi thông tin ứng viên cho trường." },
   { title: "Đóng học phí", desc: "Nhận invoice của trường, đóng học phí và nhận thư mời nhập học." },
   { title: "Phỏng vấn", desc: "Lên lịch & tham gia phỏng vấn với trường (3 – 5 ngày)." },
