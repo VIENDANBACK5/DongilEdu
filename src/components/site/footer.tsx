@@ -14,7 +14,7 @@ export function Footer() {
       <div className="mx-auto grid max-w-6xl gap-10 px-5 py-14 lg:grid-cols-[1.1fr_2fr]">
         <div className="flex items-start gap-4">
           <Image
-            src="/img/logo.png"
+            src="/img/logo-new.png"
             alt={SITE.short}
             width={60}
             height={60}

@@ -47,7 +47,7 @@ export function Header() {
         <div className="mx-auto flex h-[72px] max-w-6xl items-center justify-between gap-3 px-5">
           <a href="#home" className="flex items-center gap-3">
             <Image
-              src="/img/logo.png"
+              src="/img/logo-new.png"
               alt={SITE.short}
               width={46}
               height={46}

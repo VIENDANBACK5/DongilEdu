@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     locale: "vi_VN",
     images: ["/img/hero.jpg"],
   },
-  icons: { icon: "/img/logo.png" },
+  icons: { icon: "/img/logo-new.png" },
 };
 
 export default function RootLayout({
