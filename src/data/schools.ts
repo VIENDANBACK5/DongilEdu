@@ -373,6 +373,52 @@ export const SCHOOLS: School[] = [
     "total": "Liên hệ tư vấn"
   },
   {
+    "slug": "hongik",
+    "name": "Đại học Hongik",
+    "en": "Hongik University",
+    "kr": "홍익대학교",
+    "group": "top1",
+    "type": "Đại học",
+    "region": "seoul",
+    "city": "Seoul",
+    "founded": 1946,
+    "img": "hongik",
+    "majors": [
+      "Ngôn ngữ Hàn",
+      "Quản trị kinh doanh",
+      "Luật",
+      "Kinh tế",
+      "Mỹ thuật",
+      "Khoa học công nghệ - Game"
+    ],
+    "intakes": "T3 · T6 · T9 · T12 / 2026",
+    "reqs": [
+      "Đã tốt nghiệp THPT",
+      "Điểm trung bình từ 7.5 trở lên",
+      "Chưa từng có tiền án, tiền sự",
+      "Trường tuyển sinh chương trình hệ tiếng D4-1, D-2 yêu cầu: TOPIK 3"
+    ],
+    "costs": [
+      [
+        "Học tiếng",
+        "6.600.000 KRW/năm"
+      ],
+      [
+        "Phí đăng ký",
+        "50.000 KRW/năm"
+      ],
+      [
+        "Bảo hiểm",
+        "100.000 KRW/năm"
+      ],
+      [
+        "Ký túc xá",
+        "1.600.000 KRW/6 tháng"
+      ]
+    ],
+    "total": "≈ 8.350.000 KRW (~150 triệu VND)"
+  },
+  {
     "slug": "chungbuk",
     "name": "Đại học Quốc gia Chungbuk",
     "en": "Chungbuk National University",
@@ -995,6 +1041,51 @@ export const SCHOOLS: School[] = [
       ]
     ],
     "total": "Liên hệ tư vấn"
+  },
+  {
+    "slug": "myongji",
+    "name": "Đại học Myongji",
+    "en": "Myongji University",
+    "kr": "명지대학교",
+    "group": "top2",
+    "type": "Đại học",
+    "region": "seoul",
+    "city": "Seoul",
+    "founded": 1948,
+    "img": "myongji",
+    "majors": [
+      "Ngôn ngữ Hàn",
+      "Quản trị kinh doanh",
+      "Kỹ thuật cơ khí",
+      "Kỹ thuật robot",
+      "Kỹ thuật điện"
+    ],
+    "intakes": "T3 · T6 · T9 · T12 / 2026",
+    "reqs": [
+      "Đã tốt nghiệp THPT",
+      "Điểm trung bình từ 7.3 trở lên",
+      "Chưa từng có tiền án, tiền sự",
+      "Trường tuyển sinh chương trình hệ tiếng D4-1, D-2 yêu cầu: TOPIK 3"
+    ],
+    "costs": [
+      [
+        "Học tiếng",
+        "1.520.000 KRW/kỳ"
+      ],
+      [
+        "Phí đăng ký",
+        "50.000 KRW/năm"
+      ],
+      [
+        "Bảo hiểm",
+        "100.000 KRW/năm"
+      ],
+      [
+        "Ký túc xá",
+        "800.000 KRW/10 tuần"
+      ]
+    ],
+    "total": "≈ 7.030.000 KRW (~140 triệu VND)"
   },
   {
     "slug": "seoyeong",
@@ -1743,5 +1834,50 @@ export const SCHOOLS: School[] = [
       ]
     ],
     "total": "Liên hệ tư vấn"
+  },
+  {
+    "slug": "shin-ansan",
+    "name": "Đại học Shin Ansan",
+    "en": "Shin Ansan University",
+    "kr": "신안산대학교",
+    "group": "top3",
+    "type": "Đại học / Cao đẳng",
+    "region": "seoul",
+    "city": "Gyeonggi",
+    "founded": 1979,
+    "img": "shin-ansan",
+    "majors": [
+      "Thiết kế thẩm mỹ",
+      "Kỹ thuật cơ khí",
+      "Thông tin và Truyền thông điện tử",
+      "Thiết kế công nghiệp",
+      "Thiết kế nội thất"
+    ],
+    "intakes": "T3 · T6 · T9 · T12 / 2026",
+    "reqs": [
+      "Đã tốt nghiệp THPT - GDTX",
+      "Điểm trung bình từ 6.5 trở lên",
+      "Chưa từng có tiền án, tiền sự",
+      "Trường tuyển sinh chương trình hệ tiếng D4-1, D-2 yêu cầu: TOPIK 2-3"
+    ],
+    "costs": [
+      [
+        "Học tiếng",
+        "1.300.000 KRW/kỳ"
+      ],
+      [
+        "Học chuyên ngành",
+        "2.500.000 KRW/kỳ"
+      ],
+      [
+        "Phí đăng ký",
+        "50.000 KRW/năm"
+      ],
+      [
+        "Bảo hiểm",
+        "100.000 KRW/năm"
+      ]
+    ],
+    "total": "≈ 5.350.000 KRW (~107 triệu VND)"
   }
 ];
